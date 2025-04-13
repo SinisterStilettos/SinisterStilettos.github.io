@@ -8349,7 +8349,7 @@ textarea.form-control-lg {
 
 .bg-home {
   --bs-bg-opacity: 1;
-  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.6) 0%, rgba(0, 0, 0, 0.6) 100%), url("../assets/placeholder.jpg/")!important;
+  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.6) 0%, rgba(0, 0, 0, 0.6) 100%), url("../assets/placeholder.jpg")!important;
   background-position: center!important;
   background-size: cover!important;
   height: 100vh!important;
@@ -8357,7 +8357,7 @@ textarea.form-control-lg {
 
 .bg-place {
   --bs-bg-opacity: 1;
-  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.6) 0%, rgba(0, 0, 0, 0.6) 100%), url("../assets/placeholder.jpg/")!important;
+  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.6) 0%, rgba(0, 0, 0, 0.6) 100%), url("../assets/placeholder.jpg")!important;
   background-position: center!important;
   background-size: cover!important;
 
